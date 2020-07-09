@@ -1,0 +1,120 @@
+{
+  "errors": {},
+  "id": 120140,
+  "source_name": "Federal Reserve Economic Data",
+  "source_code": "FRED",
+  "code": "GDP",
+  "name": "Gross Domestic Product, 1 Decimal",
+  "urlize_name": "Gross-Domestic-Product-1-Decimal",
+  "display_url": "http://research.stlouisfed.org/fred2/data/GDP.txt",
+  "description": "Units: Billions of Dollars\nSeasonal Adjustment: Seasonally Adjusted Annual Rate\nNotes: A Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)",
+  "updated_at": "2015-12-14T20:00:28.561Z",
+  "frequency": "quarterly",
+  "from_date": "1947-01-01",
+  "to_date": "2015-07-01",
+  "column_names": [
+    "DATE",
+    "VALUE"
+  ],
+  "private": false,
+  "type": null,
+  "premium": false,
+  "data": [
+    [
+        "1997-01-01",
+        3.40
+    ],
+    [
+        "1998-01-01",
+        1.01
+    ],
+    [
+        "1999-01-01",
+        0.77
+    ],
+    [
+        "2000-01-01",
+        4.40
+    ],
+    [
+        "2001-01-01",
+        3.48
+    ],
+    [
+        "2002-01-01",
+        0.48
+    ],
+    [
+        "2003-01-01",
+        2.66
+    ],
+    [
+        "2004-01-01",
+        3.88
+    ],
+    [
+        "2005-01-01",
+        4.18
+    ],
+    [
+        "2006-01-01",
+        4.28
+    ],
+    [
+        "2007-01-01",
+        5.19
+    ],
+    [
+        "2008-01-01",
+        6.16
+    ],
+    [
+        "2009-01-01",
+        -2.43
+    ],
+    [
+        "2010-01-01",
+        9.21
+    ],
+    [
+        "2011-01-01",
+        5.20
+    ],
+    [
+        "2012-01-01",
+        1.71
+    ],
+    [
+        "2013-01-01",
+        2.72
+    ],
+    [
+        "2014-01-01",
+        3.47
+    ],
+    [
+        "2015-01-01",
+        -1.61
+    ],
+    [
+        "2016-01-01",
+        -5.16
+    ],
+    [
+        "2017-01-01",
+        0.39
+    ],
+    [
+        "2018-01-01",
+        1.45
+    ],
+    [
+        "2019-01-01",
+        0.59
+    ],
+    [
+        "2000-01-01",
+        -0.25
+    ]
+  ]
+}
